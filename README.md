@@ -29,7 +29,7 @@ with a err data function that retruns data json parse
 is post a post route
 
 
-![screenshot](./assets/images/cuatro.png)
+![screenshot](./public/assets/images/cuatro.png)
 
 
 [this is the link to the app](https://noty-note.herokuapp.com/)
